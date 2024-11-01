@@ -1,0 +1,4 @@
+App Name=
+URL=
+Detection Interval=
+Detection Region=
