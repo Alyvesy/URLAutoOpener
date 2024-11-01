@@ -11,7 +11,7 @@ This is an repo modified from [my another repo](https://github.com/Alyvesy/USYNe
 
 ## Settings
 
-1. You could change settings in [config.txt](bin\Debug\config.txt) (bin\Debug\config.txt)
+1. You could change settings in [config.txt](/bin/Debug/config.txt) (/bin/Debug/config.txt)
 
 ```
 App Name=  // Your app name in notify
